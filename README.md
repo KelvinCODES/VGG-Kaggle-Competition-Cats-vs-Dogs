@@ -1,1 +1,1 @@
-# VGG-Kaggle-Competition-Cats-vs-Dogs-
+# VGG-Kaggle-Competition-Cats-vs-Dogs
